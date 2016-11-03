@@ -1,0 +1,21 @@
+.uno {
+    border: 8px solid orange;
+    border-bottom-width: 2px 2px;
+    width: 230px;
+    height: 200px;
+    padding-left: 2px;
+    }
+.dos {
+    border: 8px solid orange;
+    border-bottom-width: 2px 2px;
+    width: 230px;
+    height: 200px;
+    padding-left: 2px;
+}
+.tres{
+    border: 8px solid orange;
+    border-bottom-width: 2px 2px;
+    width: 230px;
+    height: 200px;
+    padding-left: 2px
+}
